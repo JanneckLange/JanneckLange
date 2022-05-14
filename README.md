@@ -1,16 +1,21 @@
-### Hi there 👋
+🔭 I’m currently working on a simple to use opt-in mail distributor.
+
+🧊 My NaMi App Project is currently paused. 👯 Contact me, if ou want to collaborate.
+
+📫 You can contact me via e-mail: [langejanneck@gmail.com](mailto:langejanneck@gmail.com)
+<br><br><br>
+<div align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  
+   <img  src="https://github-readme-stats.vercel.app/api?username=jannecklange&hide=issues&count_private=true&show_icons=true&theme=react&include_all_commits=true" width="53.5%"/>
+   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannecklange&layout=compact&langs_count=4&theme=react" width="45.8%"/>
+  </a>
+</div>
+
+
+
 
 <!--
-**JanneckLange/JanneckLange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
