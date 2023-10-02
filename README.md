@@ -1,8 +1,8 @@
-🔭 I’m currently working on a simple to use opt-in mail distributor.
+🔭 I’m currently working on a cross-platform app for my scout organization to provide a better frontend for the existing member database.
 
-🧊 My [NaMi App Project](https://github.com/JanneckLange/dpsg-nami-app) is currently paused. 👯 Contact me, if ou want to collaborate.
+🧊 My [NaMi App Project](https://github.com/JanneckLange/dpsg-nami-app) could need help. 👯 Contact me, if ou want to collaborate.
 
-📫 You can contact me via e-mail: [langejanneck@gmail.com](mailto:langejanneck@gmail.com)
+📫 You can contact me via e-mail: [dev@jannecklange.de](mailto:dev@jannecklange.de)
 
 <br><br><br>
 
